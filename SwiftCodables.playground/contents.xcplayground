@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='ToC'/>
+        <page name='The Basics'/>
+        <page name='Date'/>
+        <page name='Simple Custom Codable Type'/>
+        <page name='Intro to Codable Keys'/>
+        <page name='Containers'/>
+        <page name='Changing Types'/>
+        <page name='Flattening Types'/>
+        <page name='Associative Enums'/>
+        <page name='subclasses'/>
+        <page name='Dynamic Coding Keys'/>
+        <page name='Context'/>
+        <page name='All Together'/>
+    </pages>
+</playground>
