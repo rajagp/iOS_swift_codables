@@ -9,11 +9,11 @@ Swift Playground for Exploring Swift4 Codables for JSON Parsing
 - Open `SwiftCodables.playground` in Xcode
 - Start with `Toc.xcplayground` page which from where you can navigate to the other playground pages. Make sure you check the `Render Documentation` checkbox.
 
-![](https://raw.githubusercontent.com/couchbaselabs/iOS_swift_codables/master/begin.png)
+![](https://github.com/rajagp/iOS_swift_codables/blob/master/begin.png)
 
 # Execution
 - Navigate to the playground that you want to Execute a playground by clicking on the "Run" button 
-![](https://raw.githubusercontent.com/couchbaselabs/iOS_swift_codables/master/execute.gif)
+![](https://github.com/rajagp/iOS_swift_codables/blob/master/execute.gif)
 
 # Examples
 Examples demonstrating transformation between JSON and Swift native types using  swift4 Codables. Each chapter looks at various use cases.
