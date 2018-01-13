@@ -107,6 +107,10 @@ struct Education:Codable {
     var name:String = ""
     var graduation:String = ""
     
+}
+
+extension Education {
+    
     struct EducationKeys:CodingKey {
         var stringValue: String
         
@@ -128,7 +132,7 @@ struct Education:Codable {
         for  key in container.allKeys {
             self.name = key.stringValue
             self.graduation = try container.decode(String.self, forKey: key)
-
+            
         }
     }
     
